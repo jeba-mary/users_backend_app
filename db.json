@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "user_profile": "",
+      "firstName": "jeba",
+      "lastName": "amal",
+      "age": "25",
+      "email": "jeba123@gmail.com",
+      "status": "active",
+      "country": "",
+      "telephone": "999283832",
+      "id": 1
+    },
+    {
+      "user_profile": "",
+      "firstName": "Garnat",
+      "lastName": "Daffodil",
+      "age": 17,
+      "email": "garnat@gmail.com",
+      "status": "active",
+      "country": "",
+      "telephone": 99928383,
+      "id": 2
+    },
+    {
+      "firstName": "xavier",
+      "lastName": "amala",
+      "age": "27",
+      "email": "xavier@gmail.com",
+      "status": "Inactive",
+      "country": "Antarctica",
+      "telephone": "9993472827",
+      "id": 3
+    }
+  ]
+}
